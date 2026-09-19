@@ -3,16 +3,15 @@
 
 # Yessine Labyedh
 
-#### `Full-Stack Engineer` · `DevOps` · `Content Creator`
+#### `Full-Stack Engineer` · `DevOps` · `AI enthusiast`
 
 <img src="https://img.shields.io/badge/-Building%20scalable%20web%20platforms%20with%20clean%20architecture-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/mansouri-youssef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@tensorcode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://medium.com/@youssef-of-web"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.linkedin.com/in/labyedh-yessine/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/yassinelabyed"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=blue?style=for-the-badge" alt="Kaggle"/></a>
 </p>
 
 </div>
@@ -24,14 +23,14 @@
 const yessine = {
   role:      "Full-Stack Engineer",
   location:  "Tunisia",
-  focus:     ["Scalable web platforms", "Clean architecture", "Production-ready code"],
+  focus:     ["Scalable web platforms", "Clean architecture", "Production-ready code", "AI integration"],
   loves:     ["Software Dev", "AI", "Open Source"],
-  currently: "Seeking new Opportunities",
+  currently: "Building, learning & shipping 🚀",
   motto:     "Build it clean, ship it fast, scale it right.",
 };
 ```
 
-- 💬 Ask me about **Java, Spring, Angular, Bash & DevOps**.
+- 💬 Ask me about **Java, Spring, Angular, AI & DevOps**.
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
@@ -52,7 +51,7 @@ const yessine = {
   <tr>
     <td align="center" width="120"><b>Backend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=springboot,js,fastapi,flask &theme=dark" alt="backend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,js,fastapi,flask &theme=dark" alt="backend"/></a>
     </td>
   </tr>
   <tr>
