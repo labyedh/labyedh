@@ -51,7 +51,9 @@ const yessine = {
   <tr>
     <td align="center" width="120"><b>Backend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,js,fastapi,flask &theme=dark" alt="backend"/></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,flask&theme=dark" alt="backend"/>
+</a>
     </td>
   </tr>
   <tr>
